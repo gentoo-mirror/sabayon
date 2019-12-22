@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare
+DEPEND=>=dev-libs/libvterm-0.0_pre20151022
+DESCRIPTION=A GTK/Pango-based terminal that uses libvterm to provide terminal emulation
+EAPI=5
+HOMEPAGE=http://www.leonerd.org.uk/code/pangoterm/
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=>=dev-libs/libvterm-0.0_pre20151022 dev-libs/glib:2 x11-libs/cairo x11-libs/gdk-pixbuf:2 x11-libs/gtk+:2 x11-libs/pango
+SLOT=0
+SRC_URI=https://dev.gentoo.org/~tranquility/distfiles/pangoterm-0.0_pre20171111.tar.gz
+_eclasses_=epatch	a1bf4756dba418a7238f3be0cb010c54
+_md5_=f8692982261905e45d94daee23e16aa0
