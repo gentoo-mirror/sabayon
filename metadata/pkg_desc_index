@@ -59,7 +59,6 @@ games-fps/unvanquished 0.48.0: Daemon engine, a fork of OpenWolf which powers th
 games-fps/unvanquished-data 0.48.0: Datafiles and maps for unvanquished
 games-misc/cowsay 3.03-r2: configurable talking ASCII cow (and other characters)
 games-rpg/unix-runescape-client 4.3.5: RuneScape client for Linux and Unix
-gnome-extra/budgie-desktop 10.2.5 10.2.6 10.2.8 10.2.9 10.3.1: Desktop Environment based on GNOME 3
 gnome-extra/nautilus-image-converter 0.3.0_p20110416: Adds 'Resize Images' and 'Rotate Images' items to context menu for images
 gnome-extra/nm-applet-gtk2 0.9.8.10: GNOME applet for NetworkManager, gtk+-2 flavour
 kde-misc/magneto-kde 318 319 320 322 323: Entropy Package Manager notification applet KDE frontend
