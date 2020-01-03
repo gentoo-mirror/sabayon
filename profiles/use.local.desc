@@ -21,7 +21,6 @@ games-fps/unvanquished:optimization - Use upstream recommended CFLAGS optimizati
 games-fps/unvanquished:sdl2 - Use media-libs/libsdl2 instead of media-libs/libsdl
 games-fps/unvanquished:server - Build Daemonded server
 games-fps/unvanquished:voip - Compile with VOIP support
-gnome-extra/budgie-desktop:pm-utils - Adds support for suspend/resume using sys-power/upower-pm-utils instead of sys-power/upower
 mail-mta/citadel:pic - Build position-independent executables
 mail-mta/citadel:postfix - Makes it possible to run citadel alongside Postfix. Mailwrapper replacement.
 media-gfx/darktable:flickr - Add support for uploading photos to flickr
