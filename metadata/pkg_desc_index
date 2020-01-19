@@ -65,6 +65,7 @@ mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and C
 media-gfx/darktable 2.6.2 2.6.3 3.0.0: A virtual lighttable and darkroom for photographers
 media-gfx/gfxboot 4.0.14-r4 4.1.19-r10 4.2.2: gfxboot allows you to create gfx menus for bootmanagers.
 media-libs/glee 5.4.0: OpenGL Easy Extension library
+media-libs/libopenshot 0.2.4_pre20190609: Video editing library used by OpenShot
 media-libs/libshout-idjc 2.3.1: Libshout-idjc is libshout plus some extensions for IDJC
 media-libs/raspberrypi-userland 0_pre20151208 0_pre20160424: Raspberry Pi userspace tools and libraries
 media-sound/deadbeef 0.6.2: foobar2k-like music player
