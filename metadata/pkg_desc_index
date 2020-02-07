@@ -1,13 +1,13 @@
 app-admin/authconfig 6.2.10 7.0.0 7.0.1: Command line tool for setting up authentication from network services
 app-admin/cado 0.9: Capability DO (like a sudo providing users with just the capabilities they need)
 app-admin/calamares 3.2.15 3.2.16 3.2.17.1: Distribution-independent installer framework
-app-admin/equo 322 323 9999: Entropy Package Manager text-based client
+app-admin/equo 322 323 324 9999: Entropy Package Manager text-based client
 app-admin/gcimagebundle 1.2.0 1.2.10: Image Bundle is a python package that allows users to create an image from the current state of the running virtual machine.
 app-admin/google-daemon 1.2.0 1.2.10: Background service for managing ssh keys and users.
 app-admin/google-startup-scripts 1.2.0 1.2.10: Google provided startup scripts that interact with the virtual machine environment.
 app-admin/listadmin 2.40: Listadmin is a Perl script designed to administer Mailman mailinglists easily.
-app-admin/matter 322 323 9999: Automated Packages Builder for Portage and Entropy
-app-admin/rigo 320 322 323: Rigo, the Sabayon Application Browser
+app-admin/matter 322 323 324 9999: Automated Packages Builder for Portage and Entropy
+app-admin/rigo 320 322 323 324: Rigo, the Sabayon Application Browser
 app-admin/rpi-update 0_pre20160313: Raspberry Pi kernel updater tool
 app-backup/deja-dup 38.1 38.2 38.3: Simple backup tool using duplicity back-end
 app-backup/tsm 7.1.8.0 8.1.6.0: IBM Spectrum Protect (former Tivoli Storage Manager) Backup/Archive Client, API
@@ -23,7 +23,7 @@ app-eselect/eselect-lightdm 0.2: Eselect module for making easy to switch betwee
 app-eselect/eselect-uimage 0.4: Eselect module for making easy to switch between u-boot Linux kernels
 app-i18n/langtable 0.0.41 0.0.42 0.0.43: langtable is used to guess reasonable defaults for locale, keyboard layout, etc.
 app-misc/kupfer 208-r1: Kupfer, a convenient command and access tool
-app-misc/magneto-loader 320 322 323: Official Sabayon Linux Entropy Notification Applet Loader
+app-misc/magneto-loader 320 322 323 324: Official Sabayon Linux Entropy Notification Applet Loader
 app-misc/mimic 0.0_pre20151031: [ab]using Unicode to create tragedy
 app-misc/nixnote 1.5 1.6 1.333: An open source Evernote clone
 app-misc/querypkg 2.4: A simple CLI interface to packages.sabayon.org
@@ -60,7 +60,7 @@ games-misc/cowsay 3.03-r2: configurable talking ASCII cow (and other characters)
 games-rpg/unix-runescape-client 4.3.5: RuneScape client for Linux and Unix
 gnome-extra/nautilus-image-converter 0.3.0_p20110416: Adds 'Resize Images' and 'Rotate Images' items to context menu for images
 gnome-extra/nm-applet-gtk2 0.9.8.10: GNOME applet for NetworkManager, gtk+-2 flavour
-kde-misc/magneto-kde 320 322 323: Entropy Package Manager notification applet KDE frontend
+kde-misc/magneto-kde 320 322 323 324: Entropy Package Manager notification applet KDE frontend
 mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and Calendar
 media-gfx/darktable 2.6.2 2.6.3 3.0.0: A virtual lighttable and darkroom for photographers
 media-gfx/gfxboot 4.0.14-r4 4.1.19-r10 4.2.2: gfxboot allows you to create gfx menus for bootmanagers.
@@ -97,13 +97,13 @@ sci-physics/phun 4.22: Physics sandbox and simulator for gravity, friction
 sys-apps/arch-iuse-test 1: Dummy ebuild that prints the arch name in pkg_setup
 sys-apps/ddcxinfo-knoppix 0.6: Program to automatically probe a monitor for information
 sys-apps/ddcxinfo-knoppix-bin 0.6: Program to automatically probe a monitor for information
-sys-apps/entropy 322 323-r1 9999: Entropy Package Manager foundation library
-sys-apps/entropy-server 322 323 9999: Entropy Package Manager server-side tools
+sys-apps/entropy 322 323-r1 324 9999: Entropy Package Manager foundation library
+sys-apps/entropy-server 322 323 324 9999: Entropy Package Manager server-side tools
 sys-apps/hbaapi 2.2: The Host Bus Adapter API for managing Fibre Channel Host Bus Adapters
 sys-apps/keyboard-configuration-helpers 2.6-r3: Sabayon Keyboard configuration wrapper
 sys-apps/libhbalinux 1.0.14: SNIA HBAAPI vendor library built on top of the scsi_transport_fc interfaces.
-sys-apps/magneto-core 320 322 323: Entropy Package Manager notification applet library
-sys-apps/rigo-daemon 320 322 323: Entropy Client DBus Services, aka RigoDaemon
+sys-apps/magneto-core 320 322 323 324: Entropy Package Manager notification applet library
+sys-apps/rigo-daemon 320 322 323 324: Entropy Client DBus Services, aka RigoDaemon
 sys-apps/usermode 1.111: Tools for certain user account management tasks
 sys-apps/v86d 0.1.10-r1: A daemon to run x86 code in an emulated environment
 sys-auth/fprintd 0.8.1-r1: D-Bus service to access fingerprint readers
@@ -122,8 +122,8 @@ x11-misc/autokey 0.81.4 0.90.4: Desktop automation utility for Linux and X11
 x11-misc/bumblebee 3.0.1-r2 3.2.1 3.2.1-r1: Service providing elegant and stable means of managing Optimus graphics chipsets
 x11-misc/cairo-dock 3.4.1: Cairo-dock is a fast, responsive, Mac OS X-like dock.
 x11-misc/gxneur 0.17.0 0.20.0: GTK+ based GUI for xneur
-x11-misc/magneto-gtk 320 322 323: Entropy Package Manager notification applet GTK2 frontend
-x11-misc/magneto-gtk3 320 322 323: Entropy Package Manager notification applet GTK3 frontend
+x11-misc/magneto-gtk 320 322 323 324: Entropy Package Manager notification applet GTK2 frontend
+x11-misc/magneto-gtk3 320 322 323 324: Entropy Package Manager notification applet GTK3 frontend
 x11-misc/obkey 1.0: Openbox Key Editor
 x11-misc/plank 0.11.2 0.11.3 0.11.4: Dock panel famious docky
 x11-misc/primus 9999 20150328: Faster OpenGL offloading for Bumblebee
