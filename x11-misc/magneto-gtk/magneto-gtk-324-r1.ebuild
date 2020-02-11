@@ -3,11 +3,11 @@
 
 EAPI=6
 
-PYTHON_COMPAT=( python2_7 python3_6 )
+PYTHON_COMPAT=( python2_7 )
 
 inherit eutils python-r1
 
-DESCRIPTION="Entropy Package Manager notification applet KDE frontend"
+DESCRIPTION="Entropy Package Manager notification applet GTK2 frontend"
 HOMEPAGE="http://www.sabayon.org"
 LICENSE="GPL-2"
 
@@ -20,7 +20,8 @@ S="${WORKDIR}/entropy-${PV}/magneto"
 
 DEPEND="${PYTHON_DEPS}"
 RDEPEND="~app-misc/magneto-loader-${PV}[${PYTHON_USEDEP}]
-	dev-python/PyQt5[dbus]
+	dev-python/notify-python[${PYTHON_USEDEP}]
+	dev-python/pygtk:2[${PYTHON_USEDEP}]
 	${DEPEND}"
 
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
@@ -28,7 +29,7 @@ REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 src_install() {
 	installation() {
 		emake DESTDIR="${D}" LIBDIR="usr/lib" PYTHON_SITEDIR="$(python_get_sitedir)" \
-			magneto-kde-install
+			magneto-gtk-install
 		python_optimize
 	}
 	python_foreach_impl installation
