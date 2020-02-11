@@ -97,13 +97,13 @@ sci-physics/phun 4.22: Physics sandbox and simulator for gravity, friction
 sys-apps/arch-iuse-test 1: Dummy ebuild that prints the arch name in pkg_setup
 sys-apps/ddcxinfo-knoppix 0.6: Program to automatically probe a monitor for information
 sys-apps/ddcxinfo-knoppix-bin 0.6: Program to automatically probe a monitor for information
-sys-apps/entropy 322 323-r1 324-r1 9999: Entropy Package Manager foundation library
+sys-apps/entropy 322 323-r1 324-r2 9999: Entropy Package Manager foundation library
 sys-apps/entropy-server 322 323 324 9999: Entropy Package Manager server-side tools
 sys-apps/hbaapi 2.2: The Host Bus Adapter API for managing Fibre Channel Host Bus Adapters
 sys-apps/keyboard-configuration-helpers 2.6-r3: Sabayon Keyboard configuration wrapper
 sys-apps/libhbalinux 1.0.14: SNIA HBAAPI vendor library built on top of the scsi_transport_fc interfaces.
 sys-apps/magneto-core 320 322 323 324: Entropy Package Manager notification applet library
-sys-apps/rigo-daemon 320 322 323 324-r1: Entropy Client DBus Services, aka RigoDaemon
+sys-apps/rigo-daemon 320 322 323 324-r2: Entropy Client DBus Services, aka RigoDaemon
 sys-apps/usermode 1.111: Tools for certain user account management tasks
 sys-apps/v86d 0.1.10-r1: A daemon to run x86 code in an emulated environment
 sys-auth/fprintd 0.8.1-r1: D-Bus service to access fingerprint readers
