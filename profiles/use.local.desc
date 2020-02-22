@@ -8,8 +8,6 @@ app-admin/rigo:passwordless-upgrade - Enable passwordless system upgrades if use
 app-backup/tsm:tsm_cit - IBM Tivoli Common Inventory Technology
 app-backup/tsm:tsm_hw - Difference snapshot support for NetApp and N-Series file servers
 app-misc/kupfer:doc - Generate and install documentation files for Gnome.
-app-misc/kupfer:keybinder - Include keybinder for global key bindings.
-app-misc/kupfer:nautilus - Install Nautilus extension.
 app-misc/tuxcmd-modules:gnome - enable GVFS module
 app-misc/tuxcmd-modules:libarchive - enable libarchive module
 app-misc/tuxcmd-modules:unrar - enable UNRAR module

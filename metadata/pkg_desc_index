@@ -21,7 +21,7 @@ app-eselect/eselect-bzimage 0.1-r2: Eselect module for making easy to switch bet
 app-eselect/eselect-lightdm 0.2: Eselect module for making easy to switch between LightDM greeters
 app-eselect/eselect-uimage 0.4: Eselect module for making easy to switch between u-boot Linux kernels
 app-i18n/langtable 0.0.41 0.0.42 0.0.43: langtable is used to guess reasonable defaults for locale, keyboard layout, etc.
-app-misc/kupfer 208-r1: Kupfer, a convenient command and access tool
+app-misc/kupfer 319: Kupfer, a smart, quick launcher
 app-misc/magneto-loader 320 322 323 324: Official Sabayon Linux Entropy Notification Applet Loader
 app-misc/mimic 0.0_pre20151031: [ab]using Unicode to create tragedy
 app-misc/nixnote 1.5 1.6 1.333: An open source Evernote clone
