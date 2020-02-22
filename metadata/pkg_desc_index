@@ -93,6 +93,7 @@ sci-geosciences/aweather 0.6.3: A weather monitoring program
 sci-libs/grits 0.6.3: Virtual Globe library
 sci-libs/rsl 1.41: Radar Software Library
 sci-libs/symbolic 0.31: a library for manipulating mathematical expressions
+sci-mathematics/octave 4.2.2 4.4.0 4.4.1 5.1.0: High-level interactive language for numerical computations
 sci-physics/phun 4.22: Physics sandbox and simulator for gravity, friction
 sys-apps/arch-iuse-test 1: Dummy ebuild that prints the arch name in pkg_setup
 sys-apps/ddcxinfo-knoppix 0.6: Program to automatically probe a monitor for information
