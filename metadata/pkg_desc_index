@@ -83,6 +83,7 @@ net-libs/libturpial 1.7.0 9999: A powerful microblogging library written in Pyth
 net-misc/freerapid 0.85: FreeRapid is a simple Java downloader that supports downloading from Rapidshare and other file-sharing services.
 net-misc/networkmanager-l2tp 0.9.8.7: NetworkManager L2TP plugin
 net-misc/nm-tray 0.4.3-r1: Pure Qt NetworkManager front-end residing in panels
+net-misc/openssh 8.2_p1-r3: Port of OpenBSD's free SSH release
 net-p2p/mktorrent-borg 0.9.9: Console .torrent file creator. It support Multi Trackers (tier groups)
 net-p2p/torrent-search 0.11.2: A torrent searching application
 net-print/cnijfilter 3.80: Canon InkJet Printer Driver for Linux (Pixus/Pixma-Series).
