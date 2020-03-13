@@ -7,7 +7,7 @@ app-admin/google-daemon 1.2.0 1.2.10: Background service for managing ssh keys a
 app-admin/google-startup-scripts 1.2.0 1.2.10: Google provided startup scripts that interact with the virtual machine environment.
 app-admin/listadmin 2.40: Listadmin is a Perl script designed to administer Mailman mailinglists easily.
 app-admin/matter 322 323 324-r1 9999: Automated Packages Builder for Portage and Entropy
-app-admin/rigo 320 322 323 324-r1: Rigo, the Sabayon Application Browser
+app-admin/rigo 320 322 323 324-r2: Rigo, the Sabayon Application Browser
 app-backup/deja-dup 38.1 38.2 38.3: Simple backup tool using duplicity back-end
 app-backup/tsm 7.1.8.0 8.1.6.0: IBM Spectrum Protect (former Tivoli Storage Manager) Backup/Archive Client, API
 app-benchmarks/interbench 0.31: Con Kolivas' Benchmarking Suite -- Successor to Contest
