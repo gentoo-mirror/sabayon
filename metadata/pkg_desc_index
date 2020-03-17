@@ -99,7 +99,7 @@ sci-physics/phun 4.22: Physics sandbox and simulator for gravity, friction
 sys-apps/arch-iuse-test 1: Dummy ebuild that prints the arch name in pkg_setup
 sys-apps/ddcxinfo-knoppix 0.6: Program to automatically probe a monitor for information
 sys-apps/ddcxinfo-knoppix-bin 0.6: Program to automatically probe a monitor for information
-sys-apps/entropy 322 323-r1 324-r3 9999: Entropy Package Manager foundation library
+sys-apps/entropy 322 323-r1 324-r4 9999: Entropy Package Manager foundation library
 sys-apps/entropy-server 322 323 324 9999: Entropy Package Manager server-side tools
 sys-apps/hbaapi 2.2: The Host Bus Adapter API for managing Fibre Channel Host Bus Adapters
 sys-apps/keyboard-configuration-helpers 2.6-r3: Sabayon Keyboard configuration wrapper
