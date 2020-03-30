@@ -36,6 +36,7 @@ app-pda/ideviceinstaller 1.1.0: A tool to interact with the installation_proxy o
 app-pda/libideviceactivation 1.0.0: A library to manage the activation process of Apple iOS devices.
 app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
+app-text/pdf2djvu 0.9.8 0.9.11 0.9.12 0.9.15: A tool to create DjVu files from PDF files
 dev-cpp/ETL 0.04.17: ETL is a multi-platform class and template library
 dev-db/opendbx 1.4.6-r2: OpenDBX - A database abstraction layer
 dev-haskell/ansi-terminal 0.6.2.3: Simple ANSI terminal support, with Windows compatibility
