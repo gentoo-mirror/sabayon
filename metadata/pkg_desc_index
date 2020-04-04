@@ -15,7 +15,6 @@ app-cdr/isomd5sum 1.1.0 1.2.0 1.2.1 1.2.2: Provides a way of making use of the I
 app-crypt/shim-signed 0.2: A Microsoft-signed version of the UEFI Shim bootloader for SecureBoot
 app-emulation/docker-companion 0.4.5: A mix of tools for Docker
 app-emulation/packer-bin 1.2.1 1.2.2 1.2.3: Packer is a tool for creating machine and container images for multiple platforms
-app-emulation/protontricks 1.2.5: A simple wrapper that does winetricks things for Proton enabled games
 app-emulation/sabayon-lxd-imagebuilder 0.1.0: Sabayon LXD image builder from Docker images
 app-eselect/eselect-bzimage 0.1-r2: Eselect module for making easy to switch between x86/x86_64 Linux kernels
 app-eselect/eselect-lightdm 0.2: Eselect module for making easy to switch between LightDM greeters
