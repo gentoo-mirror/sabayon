@@ -13,6 +13,7 @@ app-backup/tsm 7.1.8.0 8.1.6.0: IBM Spectrum Protect (former Tivoli Storage Mana
 app-benchmarks/interbench 0.31: Con Kolivas' Benchmarking Suite -- Successor to Contest
 app-cdr/isomd5sum 1.2.0 1.2.1 1.2.2: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-crypt/shim-signed 0.2: A Microsoft-signed version of the UEFI Shim bootloader for SecureBoot
+app-emulation/container-diff 0.15.0: tool for analyzing and comparing container images
 app-emulation/docker-companion 0.4.5: A mix of tools for Docker
 app-emulation/packer-bin 1.2.1 1.2.2 1.2.3: Packer is a tool for creating machine and container images for multiple platforms
 app-emulation/sabayon-lxd-imagebuilder 0.1.0: Sabayon LXD image builder from Docker images
