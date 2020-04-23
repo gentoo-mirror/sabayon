@@ -8,7 +8,6 @@ app-admin/google-startup-scripts 1.2.0 1.2.10: Google provided startup scripts t
 app-admin/listadmin 2.40: Listadmin is a Perl script designed to administer Mailman mailinglists easily.
 app-admin/matter 322 323 324-r1 9999: Automated Packages Builder for Portage and Entropy
 app-admin/rigo 320 322 323 324-r2: Rigo, the Sabayon Application Browser
-app-backup/deja-dup 38.1 38.2 38.3: Simple backup tool using duplicity back-end
 app-backup/tsm 7.1.8.0 8.1.6.0: IBM Spectrum Protect (former Tivoli Storage Manager) Backup/Archive Client, API
 app-benchmarks/interbench 0.31: Con Kolivas' Benchmarking Suite -- Successor to Contest
 app-cdr/isomd5sum 1.2.0 1.2.1 1.2.2: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
@@ -108,7 +107,6 @@ sys-apps/magneto-core 320 322 323 324: Entropy Package Manager notification appl
 sys-apps/rigo-daemon 320 322 323 324-r3: Entropy Client DBus Services, aka RigoDaemon
 sys-apps/v86d 0.1.10-r1: A daemon to run x86 code in an emulated environment
 sys-auth/fprintd 0.8.1-r1: D-Bus service to access fingerprint readers
-sys-auth/realmd 0.16.2 0.16.3: DBus service for configuring kerberos and other online identities
 sys-boot/os-prober 1.71 1.77: Utility to detect other OSs on a set of drives
 sys-fs/multipath-tools 0.5.0-r99: Device mapper target autoconfig
 sys-fs/zfs 0.7.12 0.7.13 9999: Userland utilities for ZFS Linux kernel module
