@@ -8,5 +8,5 @@ LICENSE=as-is
 RDEPEND=>=net-im/pidgin-2.6.5
 SLOT=0
 SRC_URI=http://nic.com.pl/~alek/pidgin-tlen/pidgin-tlen-20101112.tar.gz
-_eclasses_=multilib	797cda3549becfe50afdfa35192ca137	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=multilib	ac7989ababbeabdef6fdc6e465b21644	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=728f11f407219c521079143ebf47453d
