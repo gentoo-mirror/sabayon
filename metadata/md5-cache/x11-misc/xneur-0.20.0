@@ -10,5 +10,5 @@ RDEPEND=>=dev-libs/libpcre-5.0 sys-libs/zlib >=x11-libs/libX11-1.1 x11-libs/libX
 REQUIRED_USE=libnotify? ( gtk )
 SLOT=0
 SRC_URI=https://launchpad.net/~andrew-crew-kuznetsov/+archive/xneur-stable/+files/xneur_0.20.0.orig.tar.gz
-_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	ac7989ababbeabdef6fdc6e465b21644	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	0914eab919f4f11dd9e0407b92af4726	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97
 _md5_=c456ee1503c71824348d695fb0806a96
