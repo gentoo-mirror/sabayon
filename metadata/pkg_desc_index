@@ -89,6 +89,7 @@ net-print/cnijfilter 3.80: Canon InkJet Printer Driver for Linux (Pixus/Pixma-Se
 net-wireless/b43-asm 0.20091126: Assembler for Broadcom BCM43xx firmware
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/broadcom-sta 6.30.223.271-r5 6.30.223.271-r6: Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver
+net-wireless/gnuradio 3.8.1.0_rc1: Toolkit that provides signal processing blocks to implement software radios
 sci-geosciences/aweather 0.6.3: A weather monitoring program
 sci-libs/grits 0.6.3: Virtual Globe library
 sci-libs/rsl 1.41: Radar Software Library
