@@ -123,7 +123,6 @@ x11-misc/cairo-dock 3.4.1: Cairo-dock is a fast, responsive, Mac OS X-like dock.
 x11-misc/gxneur 0.17.0 0.20.0: GTK+ based GUI for xneur
 x11-misc/magneto-gtk 320 322 323 324-r2: Entropy Package Manager notification applet GTK2 frontend
 x11-misc/magneto-gtk3 320 322 323 324: Entropy Package Manager notification applet GTK3 frontend
-x11-misc/obkey 1.0: Openbox Key Editor
 x11-misc/plank 0.11.2 0.11.3 0.11.4: Dock panel famious docky
 x11-misc/primus 9999 20150328: Faster OpenGL offloading for Bumblebee
 x11-misc/pyroom 0.4.1: a text editor that stays out of your way.
