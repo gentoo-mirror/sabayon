@@ -45,6 +45,7 @@ dev-python/pyblock 0.46: Python interface for working with block devices
 dev-python/pylons 1.0.1-r3: Pylons Web Framework
 dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
 dev-python/pysmbc 1.0.15.8 1.0.16 1.0.18: Python bindings for libsmbclient
+dev-python/repoze-lru 0.7: A tiny LRU cache implementation and decorator
 dev-python/tinyurl 0.1.0: Super tiny library and command-line interface to tinyurl.com
 dev-python/vdf 3.2: Package for working with Valve's text and binary KeyValue format
 dev-python/weberror 0.13.1: Web Error handling and exception catching
