@@ -38,7 +38,6 @@ dev-libs/libcitadel 8.04: Code shared across all the components of a Citadel sys
 dev-perl/Bio-SamTools 1.430.0: Read SAM/BAM database files
 dev-python/mkdocs-material 3.1.0 4.1.1: A Material Design theme for MkDocs
 dev-python/oursql 0.9.3.1: a set of MySQL bindings for Python with a focus on wrapping the MYSQL_STMT API
-dev-python/pyblock 0.46: Python interface for working with block devices
 dev-python/pylons 1.0.1-r3: Pylons Web Framework
 dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
 dev-python/pysmbc 1.0.15.8 1.0.16 1.0.18: Python bindings for libsmbclient
