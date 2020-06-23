@@ -44,7 +44,6 @@ dev-python/pysmbc 1.0.15.8 1.0.16 1.0.18: Python bindings for libsmbclient
 dev-python/vdf 3.2: Package for working with Valve's text and binary KeyValue format
 dev-qt/qt-creator 4.10.0_rc1: Lightweight IDE for C++/QML development centering around Qt
 dev-util/eclipse-sdk-bin 4.4.2: Eclipse SDK
-dev-util/pykickstart 1.99.66.19 1.99.66.20 1.99.66.21: a python library that is used for reading and writing kickstart files.
 games-fps/unvanquished 0.48.0: Daemon engine, a fork of OpenWolf which powers the game Unvanquished
 games-fps/unvanquished-data 0.48.0 0.49.0 0.50.0: Datafiles and maps for unvanquished
 games-misc/cowsay 3.03-r2: configurable talking ASCII cow (and other characters)
