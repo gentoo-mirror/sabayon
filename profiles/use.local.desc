@@ -12,6 +12,9 @@ app-misc/tuxcmd-modules:gnome - enable GVFS module
 app-misc/tuxcmd-modules:libarchive - enable libarchive module
 app-misc/tuxcmd-modules:unrar - enable UNRAR module
 app-misc/tuxcmd-modules:zip - enable ZIP module
+dev-db/mongodb:lto - Adds support for link time optimization
+dev-db/mongodb:mms-agent - Install the MongoDB Monitoring Service agent
+dev-db/mongodb:tools - Install the MongoDB tools (mongoimport, mongodump...) from app-admin/mongo-tools
 dev-haskell/ansi-terminal:example - Build the example application.
 dev-python/pylons:genshi - Add optional genshi support
 dev-python/pylons:jinja - Add optional jinja support
