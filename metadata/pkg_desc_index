@@ -73,7 +73,7 @@ media-tv/afatech9005-firmware 1 2: Firmware for the Afatech 9005 DVB-T device
 media-video/obs-studio 25.0.8: Software for Recording and Streaming Live Video Content
 media-video/v4l2loopback 0.12.1: v4l2 loopback device which output is it's own input
 media-video/winff 1.5.3 1.5.5: Graphical video and audio batch converter using ffmpeg or avconv
-net-im/discord-bin 0.0.10: All-in-one voice and text chat for gamers
+net-im/discord-bin 0.0.11: All-in-one voice and text chat for gamers
 net-im/jitsi-bin 2.0: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-irc/quassel-core-bin 0.13_pre: Qt/KDE IRC client - "core" (server) component (static build, no Qt dependency)
 net-libs/libturpial 1.7.0 9999: A powerful microblogging library written in Python
