@@ -29,7 +29,6 @@ app-misc/xmind-portable 3.1.1.200912022330 3.2.0.201009142023: XMind is the worl
 app-office/ganttproject-bin 2.0.10: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-pda/ideviceinstaller 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libideviceactivation 1.0.0: A library to manage the activation process of Apple iOS devices.
-app-text/pdf2djvu 0.9.11 0.9.12 0.9.15 0.9.17.1: A tool to create DjVu files from PDF files
 dev-cpp/ETL 0.04.17: ETL is a multi-platform class and template library
 dev-db/mongodb 4.2.6: A high-performance, open source, schema-free document-oriented database
 dev-haskell/ansi-terminal 0.6.2.3: Simple ANSI terminal support, with Windows compatibility
