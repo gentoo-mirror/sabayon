@@ -52,8 +52,8 @@ gui-apps/nm-tray 0.4.3: A simple Qt-based NetworkManager front-end
 kde-apps/cantor 20.04.3 20.08.0: Interface for doing mathematics and scientific computing
 kde-apps/kajongg 20.04.3 20.08.0: Classical Mah Jongg for four players
 kde-apps/kig 20.04.3 20.08.0: KDE Interactive Geometry tool
-kde-frameworks/kapidox 5.72.0: Framework for building KDE API documentation in a standard format and style
-kde-frameworks/ki18n 5.72.0: Framework based on Gettext for internationalizing user interface text
+kde-frameworks/kapidox 5.72.0 5.73.0: Framework for building KDE API documentation in a standard format and style
+kde-frameworks/ki18n 5.72.0 5.73.0: Framework based on Gettext for internationalizing user interface text
 kde-misc/magneto-kde 320 322 323 324-r1: Entropy Package Manager notification applet KDE frontend
 kde-plasma/breeze-gtk 5.19.4: Official GTK+ port of Plasma's Breeze widget style
 mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and Calendar
