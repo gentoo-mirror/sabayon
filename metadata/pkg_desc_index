@@ -18,7 +18,7 @@ app-eselect/eselect-lightdm 0.2: Eselect module for making easy to switch betwee
 app-eselect/eselect-uimage 0.4: Eselect module for making easy to switch between u-boot Linux kernels
 app-i18n/langtable 0.0.41 0.0.42 0.0.43: langtable is used to guess reasonable defaults for locale, keyboard layout, etc.
 app-misc/kupfer 319: Kupfer, a smart, quick launcher
-app-misc/magneto-loader 320 322 323 324: Official Sabayon Linux Entropy Notification Applet Loader
+app-misc/magneto-loader 320 322 323 324 325: Official Sabayon Linux Entropy Notification Applet Loader
 app-misc/nixnote 1.5 1.6 1.333: An open source Evernote clone
 app-misc/querypkg 2.4: A simple CLI interface to packages.sabayon.org
 app-misc/revoco 0.6: Tool for controlling Logitech MX Revolution mouses
@@ -98,7 +98,7 @@ sys-apps/entropy-server 322 323 324 325 9999: Entropy Package Manager server-sid
 sys-apps/hbaapi 2.2: The Host Bus Adapter API for managing Fibre Channel Host Bus Adapters
 sys-apps/keyboard-configuration-helpers 2.6-r3: Sabayon Keyboard configuration wrapper
 sys-apps/libhbalinux 1.0.14: SNIA HBAAPI vendor library built on top of the scsi_transport_fc interfaces.
-sys-apps/magneto-core 320 322 323 324: Entropy Package Manager notification applet library
+sys-apps/magneto-core 320 322 323 324 325: Entropy Package Manager notification applet library
 sys-apps/rigo-daemon 320 322 323 324-r3 325: Entropy Client DBus Services, aka RigoDaemon
 sys-apps/v86d 0.1.10-r1: A daemon to run x86 code in an emulated environment
 sys-auth/fprintd 0.8.1-r1: D-Bus service to access fingerprint readers
