@@ -99,7 +99,7 @@ sys-apps/hbaapi 2.2: The Host Bus Adapter API for managing Fibre Channel Host Bu
 sys-apps/keyboard-configuration-helpers 2.6-r3: Sabayon Keyboard configuration wrapper
 sys-apps/libhbalinux 1.0.14: SNIA HBAAPI vendor library built on top of the scsi_transport_fc interfaces.
 sys-apps/magneto-core 320 322 323 324: Entropy Package Manager notification applet library
-sys-apps/rigo-daemon 320 322 323 324-r3: Entropy Client DBus Services, aka RigoDaemon
+sys-apps/rigo-daemon 320 322 323 324-r3 325: Entropy Client DBus Services, aka RigoDaemon
 sys-apps/v86d 0.1.10-r1: A daemon to run x86 code in an emulated environment
 sys-auth/fprintd 0.8.1-r1: D-Bus service to access fingerprint readers
 sys-boot/os-prober 1.71 1.77: Utility to detect other OSs on a set of drives
