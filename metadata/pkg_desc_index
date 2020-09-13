@@ -50,7 +50,6 @@ gui-apps/nm-tray 0.4.3: A simple Qt-based NetworkManager front-end
 kde-frameworks/kapidox 5.72.0 5.73.0: Framework for building KDE API documentation in a standard format and style
 kde-frameworks/ki18n 5.72.0 5.73.0: Framework based on Gettext for internationalizing user interface text
 kde-misc/magneto-kde 320 322 323 324-r1 325: Entropy Package Manager notification applet KDE frontend
-kde-plasma/breeze-gtk 5.19.4: Official GTK+ port of Plasma's Breeze widget style
 mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and Calendar
 media-gfx/darktable 2.6.3 3.0.0 3.0.1: A virtual lighttable and darkroom for photographers
 media-gfx/gfxboot 4.0.14-r4 4.1.19-r10 4.2.2: gfxboot allows you to create gfx menus for bootmanagers.
