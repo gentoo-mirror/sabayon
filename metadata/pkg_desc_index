@@ -47,8 +47,6 @@ games-rpg/unix-runescape-client 4.3.5: RuneScape client for Linux and Unix
 gnome-extra/nautilus-image-converter 0.3.0_p20110416: Adds 'Resize Images' and 'Rotate Images' items to context menu for images
 gnome-extra/nm-applet-gtk2 0.9.8.10: GNOME applet for NetworkManager, gtk+-2 flavour
 gui-apps/nm-tray 0.4.3: A simple Qt-based NetworkManager front-end
-kde-frameworks/kapidox 5.72.0 5.73.0: Framework for building KDE API documentation in a standard format and style
-kde-frameworks/ki18n 5.72.0 5.73.0: Framework based on Gettext for internationalizing user interface text
 kde-misc/magneto-kde 320 322 323 324-r1 325: Entropy Package Manager notification applet KDE frontend
 mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and Calendar
 media-gfx/darktable 2.6.3 3.0.0 3.0.1: A virtual lighttable and darkroom for photographers
