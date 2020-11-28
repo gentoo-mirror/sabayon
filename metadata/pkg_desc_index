@@ -65,7 +65,6 @@ net-im/discord-bin 0.0.12: All-in-one voice and text chat for gamers
 net-irc/quassel-core-bin 0.13_pre: Qt/KDE IRC client - "core" (server) component (static build, no Qt dependency)
 net-libs/libturpial 1.7.0 9999: A powerful microblogging library written in Python
 net-misc/freerapid 0.85: FreeRapid is a simple Java downloader that supports downloading from Rapidshare and other file-sharing services.
-net-misc/networkmanager-l2tp 0.9.8.7: NetworkManager L2TP plugin
 net-misc/openssh 8.2_p1-r6: Port of OpenBSD's free SSH release
 net-p2p/mktorrent-borg 0.9.9: Console .torrent file creator. It support Multi Trackers (tier groups)
 net-print/cnijfilter 3.80: Canon InkJet Printer Driver for Linux (Pixus/Pixma-Series).
