@@ -33,7 +33,6 @@ dev-cpp/ETL 0.04.17: ETL is a multi-platform class and template library
 dev-haskell/ansi-terminal 0.6.2.3: Simple ANSI terminal support, with Windows compatibility
 dev-libs/crossguid 0_pre20150817: Lightweight cross platform C++ GUID/UUID library
 dev-libs/libcitadel 8.04: Code shared across all the components of a Citadel system
-dev-perl/Bio-SamTools 1.430.0: Read SAM/BAM database files
 dev-python/mkdocs-material 3.1.0 4.1.1: A Material Design theme for MkDocs
 dev-python/oursql 0.9.3.1: a set of MySQL bindings for Python with a focus on wrapping the MYSQL_STMT API
 dev-python/pylons 1.0.1-r3: Pylons Web Framework
