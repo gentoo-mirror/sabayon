@@ -23,7 +23,6 @@ app-misc/nixnote 1.5 1.6 1.333: An open source Evernote clone
 app-misc/querypkg 2.4: A simple CLI interface to packages.sabayon.org
 app-misc/revoco 0.6: Tool for controlling Logitech MX Revolution mouses
 app-misc/triggerhappy 0.3.4: a lightweight hotkey daemon
-app-misc/tuxcmd 0.6.70: Tux Commander - Fast and Small filemanager using GTK2
 app-misc/tuxcmd-modules 0.6.70: Tux Commander - Fast and Small filemanager - VFS modules
 app-misc/xmind-portable 3.1.1.200912022330 3.2.0.201009142023: XMind is the world's coolest brainstorming and mind mapping software and the best way to share your ideas.
 app-office/ganttproject-bin 2.0.10: A tool for creating a project schedule by means of Gantt chart and resource load chart
@@ -71,8 +70,6 @@ net-wireless/b43-asm 0.20091126: Assembler for Broadcom BCM43xx firmware
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/broadcom-sta 6.30.223.271-r5 6.30.223.271-r6: Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver
 net-wireless/gnuradio 3.8.1.0_rc1: Toolkit that provides signal processing blocks to implement software radios
-sci-geosciences/aweather 0.6.3: A weather monitoring program
-sci-libs/grits 0.6.3: Virtual Globe library
 sci-libs/rsl 1.41: Radar Software Library
 sci-libs/symbolic 0.31: a library for manipulating mathematical expressions
 sci-physics/phun 4.22: Physics sandbox and simulator for gravity, friction
