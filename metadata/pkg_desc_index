@@ -23,7 +23,6 @@ app-misc/nixnote 1.5 1.6 1.333: An open source Evernote clone
 app-misc/querypkg 2.4: A simple CLI interface to packages.sabayon.org
 app-misc/revoco 0.6: Tool for controlling Logitech MX Revolution mouses
 app-misc/triggerhappy 0.3.4: a lightweight hotkey daemon
-app-misc/tuxcmd-modules 0.6.70: Tux Commander - Fast and Small filemanager - VFS modules
 app-misc/xmind-portable 3.1.1.200912022330 3.2.0.201009142023: XMind is the world's coolest brainstorming and mind mapping software and the best way to share your ideas.
 app-office/ganttproject-bin 2.0.10: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-pda/ideviceinstaller 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
@@ -100,14 +99,14 @@ x11-misc/gxneur 0.17.0 0.20.0: GTK+ based GUI for xneur
 x11-misc/magneto-gtk 320 322 323 324-r2: Entropy Package Manager notification applet GTK2 frontend
 x11-misc/magneto-gtk3 320 322 323 324 325: Entropy Package Manager notification applet GTK3 frontend
 x11-misc/xbindkeys-config 0.1.3: Gtk+ program for configuring xbindkeys
-x11-misc/xneur 0.17.0 0.20.0: In-place conversion of text typed in with a wrong keyboard layout
+x11-misc/xneur 0.20.0: In-place conversion of text typed in with a wrong keyboard layout
 x11-plugins/cairo-dock-plugins 3.4.1: Official plugins for cairo-dock
 x11-plugins/pidgin-gfire 0.9.4: Pidgin plugin for adding Xfire accounts and connecting to the Xfire network
 x11-plugins/pidgin-libnotify 0.14-r2: pidgin-libnotify provides popups for pidgin via a libnotify interface
 x11-plugins/pidgin-tlen 20101112: Pidgin plugin for adding Tlen.pl support
 x11-terms/pangoterm 0.0_pre20171111: A GTK/Pango-based terminal that uses libvterm to provide terminal emulation
 x11-themes/cairo-dock-themes 1.6.3.1: Official themes for Cairo-dock
-x11-themes/elementary-icon-theme 2.7.1-r1 4.3.1: Elementary icon theme
+x11-themes/elementary-icon-theme 4.3.1: Elementary icon theme
 x11-themes/equinox-themes 1.50: Themes for the Equinox GTK engine
 x11-themes/gtk-engines-equinox 1.50: Sleek GTK Theme engine
 x11-themes/iottinka-artwork 1.0-r1: Iottinka Artwork at DeviantArt

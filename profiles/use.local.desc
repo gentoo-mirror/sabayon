@@ -8,10 +8,6 @@ app-admin/rigo:passwordless-upgrade - Enable passwordless system upgrades if use
 app-backup/tsm:tsm_cit - IBM Tivoli Common Inventory Technology
 app-backup/tsm:tsm_hw - Difference snapshot support for NetApp and N-Series file servers
 app-misc/kupfer:doc - Generate and install documentation files for Gnome.
-app-misc/tuxcmd-modules:gnome - enable GVFS module
-app-misc/tuxcmd-modules:libarchive - enable libarchive module
-app-misc/tuxcmd-modules:unrar - enable UNRAR module
-app-misc/tuxcmd-modules:zip - enable ZIP module
 dev-haskell/ansi-terminal:example - Build the example application.
 dev-python/pylons:genshi - Add optional genshi support
 dev-python/pylons:jinja - Add optional jinja support
