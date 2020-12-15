@@ -50,7 +50,6 @@ media-libs/glee 5.4.0: OpenGL Easy Extension library
 media-libs/libopenshot 0.2.4_pre20190609: Video editing library used by OpenShot
 media-libs/libshout-idjc 2.3.1: Libshout-idjc is libshout plus some extensions for IDJC
 media-libs/raspberrypi-userland 0_pre20151208 0_pre20160424: Raspberry Pi userspace tools and libraries
-media-plugins/gimp-resynthesizer 2.0.3-r3: Suite of GIMP plugins for texture synthesis
 media-sound/idjc 0.8.14: IDJC has two media players, jingles player, crossfader, VoIP and streaming
 media-sound/jack-audio-connection-kit 0.124.1 0.125.0: A low-latency audio server
 media-sound/ossp 1.3.2-r1: OSS Proxy Daemon is Linux userland OSS sound device implementation using CUSE
@@ -58,7 +57,6 @@ media-sound/rakarrack 0.6.1: Basic rack of 10 effects for guitar with presets, b
 media-tv/afatech9005-firmware 1 2: Firmware for the Afatech 9005 DVB-T device
 media-video/v4l2loopback 0.12.1: v4l2 loopback device which output is it's own input
 media-video/winff 1.5.3 1.5.5: Graphical video and audio batch converter using ffmpeg or avconv
-net-im/discord-bin 0.0.12: All-in-one voice and text chat for gamers
 net-irc/quassel-core-bin 0.13_pre: Qt/KDE IRC client - "core" (server) component (static build, no Qt dependency)
 net-libs/libturpial 1.7.0 9999: A powerful microblogging library written in Python
 net-misc/freerapid 0.85: FreeRapid is a simple Java downloader that supports downloading from Rapidshare and other file-sharing services.
