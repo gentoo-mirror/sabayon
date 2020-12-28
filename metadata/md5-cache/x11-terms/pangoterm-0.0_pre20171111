@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=>=dev-libs/libvterm-0.0_pre20151022 dev-libs/glib:2 x11-libs/cairo x11-libs/gdk-pixbuf:2 x11-libs/gtk+:2 x11-libs/pango
 SLOT=0
 SRC_URI=https://dev.gentoo.org/~tranquility/distfiles/pangoterm-0.0_pre20171111.tar.gz
-_eclasses_=epatch	0a83d4ccf28a70ddf61e7073c96e515a	estack	d780995dc525ff7e6a2c4c043ffec242
+_eclasses_=epatch	e8f1ec13660dc2f44b32775765d85e42	estack	055c42df72f76a4f45ec92b35e83cd56
 _md5_=f8692982261905e45d94daee23e16aa0
