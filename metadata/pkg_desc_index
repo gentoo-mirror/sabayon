@@ -30,7 +30,6 @@ dev-libs/crossguid 0_pre20150817: Lightweight cross platform C++ GUID/UUID libra
 dev-libs/libcitadel 8.04: Code shared across all the components of a Citadel system
 dev-python/mkdocs-material 3.1.0 4.1.1: A Material Design theme for MkDocs
 dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
-dev-python/pysmbc 1.0.15.8 1.0.16 1.0.18: Python bindings for libsmbclient
 dev-util/eclipse-sdk-bin 4.4.2: Eclipse SDK
 games-fps/unvanquished 0.48.0: Daemon engine, a fork of OpenWolf which powers the game Unvanquished
 games-fps/unvanquished-data 0.48.0 0.49.0 0.50.0: Datafiles and maps for unvanquished
