@@ -25,10 +25,6 @@ media-gfx/darktable:pax_kernel - Triggers paxmarking of main darktable binary
 media-sound/idjc:mpg123 - Enable support for mp3 decoding through media-sound/mpg123
 media-sound/idjc:opus - Enable Opus audio codec support
 media-sound/idjc:twolame - Enables twolame support (MPEG Audio Layer 2 encoder)
-media-sound/jack-audio-connection-kit:coreaudio - Build the CoreAudio driver on Mac OS X systems
-media-sound/jack-audio-connection-kit:cpudetection - Enables runtime cpudetection
-media-sound/jack-audio-connection-kit:ffado - Build with support for FireWire (FFADO)
-media-sound/jack-audio-connection-kit:pam - Add basic realtime configuration via sys-auth/realtime-base
 net-misc/openssh:X509 - Adds support for X.509 certificate authentication
 net-misc/openssh:bindist - Disable EC/RC5 algorithms in OpenSSL for patent reasons.
 net-misc/openssh:hpn - Enable high performance ssh

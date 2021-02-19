@@ -44,7 +44,6 @@ media-libs/glee 5.4.0: OpenGL Easy Extension library
 media-libs/libopenshot 0.2.4_pre20190609: Video editing library used by OpenShot
 media-libs/libshout-idjc 2.3.1: Libshout-idjc is libshout plus some extensions for IDJC
 media-libs/raspberrypi-userland 0_pre20151208 0_pre20160424: Raspberry Pi userspace tools and libraries
-media-sound/jack-audio-connection-kit 0.124.1 0.125.0: A low-latency audio server
 media-sound/ossp 1.3.2-r1: OSS Proxy Daemon is Linux userland OSS sound device implementation using CUSE
 media-sound/rakarrack 0.6.1: Basic rack of 10 effects for guitar with presets, banks and MIDI control
 media-tv/afatech9005-firmware 1 2: Firmware for the Afatech 9005 DVB-T device
