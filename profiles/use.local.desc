@@ -40,11 +40,6 @@ net-misc/openssh:ssh1 - Support the legacy/weak SSH1 protocol
 net-misc/openssh:ssl - Enable additional crypto algorithms via OpenSSL
 net-misc/openssh:xmss - Enable XMSS post-quantum authentication algorithm
 sys-apps/entropy-server:matter - Pull in app-admin/matter
-sys-fs/zfs:kernel-builtin - Disable dependency on sys-fs/zfs-kmod under the assumption that ZFS is part of the kernel source tree
-sys-fs/zfs:rootfs - Enable dependencies required for booting off a pool containing a rootfs
-sys-fs/zfs:test-suite - Install regression test suite
-sys-fs/zfs-kmod:debug-log - Enable additional diagnostics
-sys-fs/zfs-kmod:rootfs - Install zfs-shutdown script to support exporting a pool containing rootfs
 x11-misc/cairo-dock:desktop_manager - Add support for enable-desktop-manager compilation flag.
 x11-misc/cairo-dock:gtk3 - Link against version 3 of the GIMP Toolkit (x11-libs/gtk+).
 x11-misc/gxneur:appindicator - adds support for an App Indicator icon

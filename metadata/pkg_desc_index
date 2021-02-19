@@ -76,7 +76,6 @@ sys-apps/v86d 0.1.10-r1: A daemon to run x86 code in an emulated environment
 sys-auth/fprintd 0.8.1-r1: D-Bus service to access fingerprint readers
 sys-boot/os-prober 1.71 1.77: Utility to detect other OSs on a set of drives
 sys-fs/multipath-tools 0.5.0-r99: Device mapper target autoconfig
-sys-fs/zfs-kmod 0.7.11 0.7.12 0.7.13: Linux ZFS kernel module for sys-fs/zfs
 www-client/brave-bin 1.3.114 1.15.75: Brave Web Browser
 www-client/firefox 78.0.2: Firefox Web Browser
 www-servers/apache 2.4.41: The Apache Web Server
