@@ -3,6 +3,7 @@ DEPEND=>=dev-libs/libpcre-5.0 sys-libs/zlib >=x11-libs/libX11-1.1 x11-libs/libXi
 DESCRIPTION=In-place conversion of text typed in with a wrong keyboard layout
 EAPI=6
 HOMEPAGE=http://www.xneur.ru/
+INHERIT=autotools
 IUSE=aplay debug gstreamer gtk gtk3 keylogger libnotify nls openal xosd +spell
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
@@ -10,5 +11,5 @@ RDEPEND=>=dev-libs/libpcre-5.0 sys-libs/zlib >=x11-libs/libX11-1.1 x11-libs/libX
 REQUIRED_USE=libnotify? ( gtk )
 SLOT=0
 SRC_URI=https://launchpad.net/~andrew-crew-kuznetsov/+archive/xneur-stable/+files/xneur_0.20.0.orig.tar.gz
-_eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	4ba6c345bf49883c84d5fa5c9bf40c0b
 _md5_=c456ee1503c71824348d695fb0806a96
