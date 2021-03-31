@@ -3,6 +3,7 @@ DEPEND=>=net-im/pidgin-2.6.5
 DESCRIPTION=Pidgin plugin for adding Tlen.pl support
 EAPI=3
 HOMEPAGE=http://nic.com.pl/~alek/pidgin-tlen/
+INHERIT=multilib
 KEYWORDS=~x86 ~amd64
 LICENSE=as-is
 RDEPEND=>=net-im/pidgin-2.6.5
