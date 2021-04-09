@@ -4,7 +4,6 @@ app-admin/equo 322 323 324-r2 325 9999: Entropy Package Manager text-based clien
 app-admin/listadmin 2.40: Listadmin is a Perl script designed to administer Mailman mailinglists easily.
 app-admin/matter 322 323 324-r1 9999: Automated Packages Builder for Portage and Entropy
 app-admin/rigo 320 322 323 324-r2 325: Rigo, the Sabayon Application Browser
-app-backup/tsm 7.1.8.0 8.1.6.0: IBM Spectrum Protect (former Tivoli Storage Manager) Backup/Archive Client, API
 app-benchmarks/interbench 0.31: Con Kolivas' Benchmarking Suite -- Successor to Contest
 app-cdr/isomd5sum 1.2.0 1.2.1 1.2.2: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-crypt/shim-signed 0.2: A Microsoft-signed version of the UEFI Shim bootloader for SecureBoot

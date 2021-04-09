@@ -5,8 +5,6 @@
 app-admin/calamares:pythonqt - Enable PythonQt-based module interface
 app-admin/matter:entropy - Add Entropy support
 app-admin/rigo:passwordless-upgrade - Enable passwordless system upgrades if user is in the entropy group
-app-backup/tsm:tsm_cit - IBM Tivoli Common Inventory Technology
-app-backup/tsm:tsm_hw - Difference snapshot support for NetApp and N-Series file servers
 app-misc/kupfer:doc - Generate and install documentation files for Gnome.
 dev-haskell/ansi-terminal:example - Build the example application.
 dev-python/pylons:genshi - Add optional genshi support
