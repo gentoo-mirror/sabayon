@@ -30,7 +30,6 @@ dev-libs/libcitadel 8.04: Code shared across all the components of a Citadel sys
 dev-python/mkdocs-material 3.1.0 4.1.1: A Material Design theme for MkDocs
 dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
 dev-util/eclipse-sdk-bin 4.4.2: Eclipse SDK
-games-fps/unvanquished 0.48.0: Daemon engine, a fork of OpenWolf which powers the game Unvanquished
 games-fps/unvanquished-data 0.48.0 0.49.0 0.50.0: Datafiles and maps for unvanquished
 games-misc/cowsay 3.03-r2: configurable talking ASCII cow (and other characters)
 games-rpg/unix-runescape-client 4.3.5: RuneScape client for Linux and Unix
