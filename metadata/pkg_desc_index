@@ -4,7 +4,6 @@ app-admin/equo 322 323 324-r2 325 9999: Entropy Package Manager text-based clien
 app-admin/listadmin 2.40: Listadmin is a Perl script designed to administer Mailman mailinglists easily.
 app-admin/matter 322 323 324-r1 9999: Automated Packages Builder for Portage and Entropy
 app-admin/rigo 320 322 323 324-r2 325: Rigo, the Sabayon Application Browser
-app-benchmarks/interbench 0.31: Con Kolivas' Benchmarking Suite -- Successor to Contest
 app-cdr/isomd5sum 1.2.0 1.2.1 1.2.2: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-crypt/shim-signed 0.2: A Microsoft-signed version of the UEFI Shim bootloader for SecureBoot
 app-emulation/container-diff 0.15.0: tool for analyzing and comparing container images
@@ -23,17 +22,14 @@ app-misc/xmind-portable 3.1.1.200912022330 3.2.0.201009142023: XMind is the worl
 app-office/ganttproject-bin 2.0.10: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-pda/ideviceinstaller 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libideviceactivation 1.0.0: A library to manage the activation process of Apple iOS devices.
-dev-cpp/ETL 0.04.17: ETL is a multi-platform class and template library
 dev-haskell/ansi-terminal 0.6.2.3: Simple ANSI terminal support, with Windows compatibility
 dev-libs/crossguid 0_pre20150817: Lightweight cross platform C++ GUID/UUID library
-dev-libs/libcitadel 8.04: Code shared across all the components of a Citadel system
 dev-python/mkdocs-material 3.1.0 4.1.1: A Material Design theme for MkDocs
 dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
 dev-util/eclipse-sdk-bin 4.4.2: Eclipse SDK
 games-fps/unvanquished-data 0.48.0 0.49.0 0.50.0: Datafiles and maps for unvanquished
 games-misc/cowsay 3.03-r2: configurable talking ASCII cow (and other characters)
 games-rpg/unix-runescape-client 4.3.5: RuneScape client for Linux and Unix
-gnome-extra/nautilus-image-converter 0.3.0_p20110416: Adds 'Resize Images' and 'Rotate Images' items to context menu for images
 kde-misc/magneto-kde 320 322 323 324-r1 325: Entropy Package Manager notification applet KDE frontend
 mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and Calendar
 media-gfx/darktable 2.6.3 3.0.0 3.0.1: A virtual lighttable and darkroom for photographers
@@ -42,7 +38,6 @@ media-libs/glee 5.4.0: OpenGL Easy Extension library
 media-libs/libopenshot 0.2.4_pre20190609: Video editing library used by OpenShot
 media-libs/libshout-idjc 2.3.1: Libshout-idjc is libshout plus some extensions for IDJC
 media-libs/raspberrypi-userland 0_pre20151208 0_pre20160424: Raspberry Pi userspace tools and libraries
-media-sound/ossp 1.3.2-r1: OSS Proxy Daemon is Linux userland OSS sound device implementation using CUSE
 media-sound/rakarrack 0.6.1: Basic rack of 10 effects for guitar with presets, banks and MIDI control
 media-tv/afatech9005-firmware 1 2: Firmware for the Afatech 9005 DVB-T device
 media-video/v4l2loopback 0.12.1: v4l2 loopback device which output is it's own input
@@ -56,7 +51,6 @@ net-wireless/b43-asm 0.20091126: Assembler for Broadcom BCM43xx firmware
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/broadcom-sta 6.30.223.271-r5 6.30.223.271-r6: Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver
 net-wireless/gnuradio 3.8.1.0_rc1: Toolkit that provides signal processing blocks to implement software radios
-sci-libs/rsl 1.41: Radar Software Library
 sci-libs/symbolic 0.31: a library for manipulating mathematical expressions
 sci-physics/phun 4.22: Physics sandbox and simulator for gravity, friction
 sys-apps/arch-iuse-test 1: Dummy ebuild that prints the arch name in pkg_setup
@@ -64,9 +58,7 @@ sys-apps/ddcxinfo-knoppix 0.6: Program to automatically probe a monitor for info
 sys-apps/ddcxinfo-knoppix-bin 0.6: Program to automatically probe a monitor for information
 sys-apps/entropy 322 323-r1 324-r5 325 9999: Entropy Package Manager foundation library
 sys-apps/entropy-server 322 323 324 325 9999: Entropy Package Manager server-side tools
-sys-apps/hbaapi 2.2: The Host Bus Adapter API for managing Fibre Channel Host Bus Adapters
 sys-apps/keyboard-configuration-helpers 2.6-r3: Sabayon Keyboard configuration wrapper
-sys-apps/libhbalinux 1.0.14: SNIA HBAAPI vendor library built on top of the scsi_transport_fc interfaces.
 sys-apps/magneto-core 320 322 323 324 325: Entropy Package Manager notification applet library
 sys-apps/rigo-daemon 320 322 323 324-r3 325: Entropy Client DBus Services, aka RigoDaemon
 sys-apps/v86d 0.1.10-r1: A daemon to run x86 code in an emulated environment
