@@ -15,11 +15,6 @@ games-fps/unvanquished:server - Build Daemonded server
 games-fps/unvanquished:voip - Compile with VOIP support
 mail-mta/citadel:pic - Build position-independent executables
 mail-mta/citadel:postfix - Makes it possible to run citadel alongside Postfix. Mailwrapper replacement.
-media-gfx/darktable:flickr - Add support for uploading photos to flickr
-media-gfx/darktable:geolocation - Enable geotagging support
-media-gfx/darktable:kwallet - Enable encrypted storage of passwords with kde-frameworks/kwallet
-media-gfx/darktable:opencl - Enable opencl support
-media-gfx/darktable:pax_kernel - Triggers paxmarking of main darktable binary
 media-sound/idjc:mpg123 - Enable support for mp3 decoding through media-sound/mpg123
 media-sound/idjc:opus - Enable Opus audio codec support
 media-sound/idjc:twolame - Enables twolame support (MPEG Audio Layer 2 encoder)
