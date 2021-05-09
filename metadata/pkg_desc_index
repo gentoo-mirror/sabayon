@@ -29,7 +29,6 @@ dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
 dev-util/eclipse-sdk-bin 4.4.2: Eclipse SDK
 games-fps/unvanquished-data 0.48.0 0.49.0 0.50.0: Datafiles and maps for unvanquished
 games-misc/cowsay 3.03-r2: configurable talking ASCII cow (and other characters)
-games-rpg/unix-runescape-client 4.3.5: RuneScape client for Linux and Unix
 gnome-extra/gnome-software 3.36.1: Gnome install & update software
 kde-misc/magneto-kde 320 322 323 324-r1 325: Entropy Package Manager notification applet KDE frontend
 mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and Calendar
