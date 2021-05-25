@@ -22,7 +22,6 @@ app-misc/xmind-portable 3.1.1.200912022330 3.2.0.201009142023: XMind is the worl
 app-office/ganttproject-bin 2.0.10: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-pda/ideviceinstaller 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libideviceactivation 1.0.0: A library to manage the activation process of Apple iOS devices.
-dev-haskell/ansi-terminal 0.6.2.3: Simple ANSI terminal support, with Windows compatibility
 dev-libs/crossguid 0_pre20150817: Lightweight cross platform C++ GUID/UUID library
 dev-python/mkdocs-material 3.1.0 4.1.1: A Material Design theme for MkDocs
 dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
