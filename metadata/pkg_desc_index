@@ -1,5 +1,4 @@
 app-admin/cado 0.9: Capability DO (like a sudo providing users with just the capabilities they need)
-app-admin/calamares 3.2.16 3.2.17.1: Distribution-independent installer framework
 app-admin/equo 322 323 324-r2 325 9999: Entropy Package Manager text-based client
 app-admin/listadmin 2.40: Listadmin is a Perl script designed to administer Mailman mailinglists easily.
 app-admin/matter 322 323 324-r1 9999: Automated Packages Builder for Portage and Entropy
@@ -23,8 +22,6 @@ app-office/ganttproject-bin 2.0.10: A tool for creating a project schedule by me
 app-pda/ideviceinstaller 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libideviceactivation 1.0.0: A library to manage the activation process of Apple iOS devices.
 dev-libs/crossguid 0_pre20150817: Lightweight cross platform C++ GUID/UUID library
-dev-python/mkdocs-material 3.1.0 4.1.1: A Material Design theme for MkDocs
-dev-python/pymdown-extensions 6.1.0 6.2.0 6.2.1: Extensions for Python Markdown.
 dev-util/eclipse-sdk-bin 4.4.2: Eclipse SDK
 games-fps/unvanquished-data 0.48.0 0.49.0 0.50.0: Datafiles and maps for unvanquished
 games-misc/cowsay 3.03-r2: configurable talking ASCII cow (and other characters)
@@ -33,7 +30,6 @@ kde-misc/magneto-kde 320 322 323 324-r1 325: Entropy Package Manager notificatio
 mail-mta/citadel 8.04: Groupware with BBS/Email/XMPP Server, Collaboration and Calendar
 media-gfx/gfxboot 4.0.14-r4 4.1.19-r10 4.2.2: gfxboot allows you to create gfx menus for bootmanagers.
 media-libs/glee 5.4.0: OpenGL Easy Extension library
-media-libs/libopenshot 0.2.4_pre20190609: Video editing library used by OpenShot
 media-libs/libshout-idjc 2.3.1: Libshout-idjc is libshout plus some extensions for IDJC
 media-libs/raspberrypi-userland 0_pre20151208 0_pre20160424: Raspberry Pi userspace tools and libraries
 media-sound/rakarrack 0.6.1: Basic rack of 10 effects for guitar with presets, banks and MIDI control
@@ -48,7 +44,6 @@ net-print/cnijfilter 3.80: Canon InkJet Printer Driver for Linux (Pixus/Pixma-Se
 net-wireless/b43-asm 0.20091126: Assembler for Broadcom BCM43xx firmware
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/broadcom-sta 6.30.223.271-r5 6.30.223.271-r6: Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver
-net-wireless/gnuradio 3.8.1.0_rc1: Toolkit that provides signal processing blocks to implement software radios
 sci-libs/symbolic 0.31: a library for manipulating mathematical expressions
 sci-physics/phun 4.22: Physics sandbox and simulator for gravity, friction
 sys-apps/arch-iuse-test 1: Dummy ebuild that prints the arch name in pkg_setup
