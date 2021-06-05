@@ -32,7 +32,6 @@ media-gfx/gfxboot 4.0.14-r4 4.1.19-r10 4.2.2: gfxboot allows you to create gfx m
 media-libs/glee 5.4.0: OpenGL Easy Extension library
 media-libs/libshout-idjc 2.3.1: Libshout-idjc is libshout plus some extensions for IDJC
 media-libs/raspberrypi-userland 0_pre20151208 0_pre20160424: Raspberry Pi userspace tools and libraries
-media-sound/rakarrack 0.6.1: Basic rack of 10 effects for guitar with presets, banks and MIDI control
 media-tv/afatech9005-firmware 1 2: Firmware for the Afatech 9005 DVB-T device
 media-video/v4l2loopback 0.12.1: v4l2 loopback device which output is it's own input
 media-video/winff 1.5.3 1.5.5: Graphical video and audio batch converter using ffmpeg or avconv
